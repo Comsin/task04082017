@@ -1,0 +1,24 @@
+Pentru a realiza acest task am folosit urmatorul plugin:  https://wordpress.org/plugins/meet-my-team/ si tema implicita "Twenty Sixteen".
+
+Archiva contine:
+- Plugin-ul original: original-meet-my-team.1.2.2.zip
+- Tema "Twenty Sixteen": twentysixteen.1.3.zip
+- Plugin-ul modificat:  meet-my-team.zip
+
+Utilizare:
+ 
+Instalati plugin-ul, activati-l si adaugati membri noi din meniul "Team Member" ->  "Add new".
+Adaugati o pagina din meniul "Pages" ->  "Add new" si foloiti codul: [meet-my-team cols="3"] in interiorul paginii.
+
+
+To do this task, I used the following plugin: https://wordpress.org/plugins/meet-my-team/ and the default theme "Twenty Sixteen".
+
+The archive contains:
+- The original Plugin: original-meet-my-team.1.2.2.zip
+- The "Twenty Sixteen" theme: twentysixteen.1.3.zip
+- The modified plugin: meet-my-team.zip
+
+For use:
+
+Install the plug-in, activate it, and add new members from the "Team Member" -> "Add new".
+Add a page from the "Pages" -> "Add new" and use the code: [meet-my-team cols="3"] inside the page.
